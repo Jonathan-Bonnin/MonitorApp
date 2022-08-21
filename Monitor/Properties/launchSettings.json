@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "Monitor": {
+      "commandName": "Project",
+      "commandLineArgs": "Notepad 1 1"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "environmentVariables": {},
+      "distributionName": ""
+    }
+  }
+}
