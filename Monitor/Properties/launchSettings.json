@@ -2,7 +2,7 @@
   "profiles": {
     "Monitor": {
       "commandName": "Project",
-      "commandLineArgs": "Notepad 1 1"
+      "commandLineArgs": "Notepad 2 1"
     },
     "WSL": {
       "commandName": "WSL2",
